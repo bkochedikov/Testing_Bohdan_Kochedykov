@@ -1,0 +1,27 @@
+{
+  "name": "testing_bohdan_kochedykov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.11.18",
+    "chai": "^4.3.7",
+    "dropbox-v2-api": "^2.5.10-next.3",
+    "mocha": "^10.2.0",
+    "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkochedikov/Testing_Bohdan_Kochedykov.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkochedikov/Testing_Bohdan_Kochedykov/issues"
+  },
+  "homepage": "https://github.com/bkochedikov/Testing_Bohdan_Kochedykov#readme"
+}
