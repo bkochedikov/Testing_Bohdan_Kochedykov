@@ -1,6 +1,6 @@
 # Basic knowledge JS home task
 Steps to start a project:
-1. Open index.html.
+1. Open index.html in HW1 folder.
 
 2. Right mouse button -> inspect element -> open a console tab.
 
