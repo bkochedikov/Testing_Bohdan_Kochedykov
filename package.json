@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^108.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.7.1"
+  },
+  "scripts": {
+    "test": "mocha test/test.js --timeout  10000"
+  }
+}
